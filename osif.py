@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('MR KALIT09').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -383,8 +383,7 @@ def confirm(posts):
 		bot()
 	except KeyboardInterrupt:
 		print '\r[!] Stopped'
-		bot()
-def unfriend(posts):
+		bot() ef unfriend(posts):
 
 #	maaf , fitur unfriend saya encrypt karena tidak
 #	diperbolehkan oleh para owner bot fb :)
